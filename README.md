@@ -7,4 +7,10 @@ This project visualizes and analyzes patient data using `pandas`, `matplotlib`, 
 - `medical_data_visualizer.py`: Main script
 - `main.py`: Executes the project and shows plots
 - `medical_examination.csv`: Dataset
-- `catplot.png`, `heatmap.png`: Output figures 
+- `catplot.png`, `heatmap.png`: Output figures
+
+# Author
+
+Reham Nagaty
+
+[LinkedIn](linkedin.com/in/reham-mohamed-nagaty/)
